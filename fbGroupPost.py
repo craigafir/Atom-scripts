@@ -24,7 +24,7 @@ loginElem.click()
 message = str(input('Type your message to the group: '))
 sleep(2)
 print('Navigating to Facebook Group')
-browser.get('https://www.facebook.com/groups/727893477272975')
+browser.get('https://www.facebook.com/group') #add your group link here. 
 
 
 print('Posting Message')
